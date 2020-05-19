@@ -1,0 +1,13 @@
+{
+    "name": "gabsdsousa/php_composer",
+    "description": "Project that catch a trainning list from the site Alura",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Ramos de Sousa",
+            "email": "gabrielramos.email@gmail.com"
+        }
+    ],
+    "require": {}
+}
