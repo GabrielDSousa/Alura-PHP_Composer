@@ -12,16 +12,27 @@ In this trainning I'm learning:
 
 ## Installation
 
-Use the package manager [Chocolatey](https://chocolatey.org/) to install php.
+Use the package manager to install php.
+On Windows I'm using [Chocolatey](https://chocolatey.org/)
 
 ```bash
 choco install php
 ```
-WIP
+
+Intall the [Composer](https://getcomposer.org/download/)
 
 ## Usage
-WIP
+Download the packcage shared on [Packagist](https://packagist.org) using the bash
+```bash
+composer require gabsdsousa/php_composer ^1.1.1
+```
 
+Run on terminal 
+```bash
+vendor/bin/training-looker.php.bat
+```
+
+And will show all the php trainnings [Alura](https://cursos.alura.com.br) offers.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
