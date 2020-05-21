@@ -39,5 +39,6 @@
     },
     "scripts-descriptions": {
         "check": "Run verifications of the code, unit test, code sniffer and the phan test"
-    }
+    },
+    "bin": ["training-looker.php"]
 }
