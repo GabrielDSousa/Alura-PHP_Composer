@@ -24,4 +24,4 @@ WIP
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/GabrielDSousa/PHP_Composer/blob/master/LICENSE.md)
